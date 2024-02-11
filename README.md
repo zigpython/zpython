@@ -3,7 +3,7 @@ Python implementation written in zig
 
 ---
 Targeted platforms (currently not implemented):
-* Windows 10-11 x64_86
+* Windows 10-11 x86_64
 * Linux x86_64
 * macOS aarch64
 * WASI
